@@ -1,4 +1,8 @@
-## Hi there 👋
+<img width="2172" height="724" alt="Smiling Wanderer in a Flower Meadow" src="https://github.com/user-attachments/assets/851584d3-9a08-478f-a68e-221e39f0df5a" />
+
+## 👋 Hi there, I'm Nick Mollison, a.k.a. ajfrenchy, as.nHole() 
+
+![GitHub followers](https://img.shields.io/github/followers/ajfrenchy)
 
 <!--
 **ajfrenchy/ajfrenchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
