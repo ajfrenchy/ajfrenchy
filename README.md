@@ -2,7 +2,7 @@
 
 ## 👋 Hi there, I'm Nick Mollison, a.k.a. ajfrenchy, as.nHole() 
 
-![GitHub followers](https://img.shields.io/github/followers/ajfrenchy)
+
 
 <!--
 **ajfrenchy/ajfrenchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
